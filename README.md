@@ -1,7 +1,7 @@
 # Brain-Tumor-Segmentation
 
 
-## Image segmentation using Vanilla UNet, UNet with ResNeXt50 backbone, and Feature Pyramid Network.¶
+## Image segmentation using Vanilla UNet, UNet with ResNeXt50 backbone, and Feature Pyramid Network
 Steps:
 
 1. Data Preparation
