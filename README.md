@@ -1,8 +1,32 @@
 # Brain-Tumor-Segmentation
 
 
+###Image segmentation using Vanilla UNet, UNet with ResNeXt50 backbone, and Feature Pyramid Network.¶
+Steps:
 
-About Dataset:
+1. Data Preparation
+
+2. Data Visualization
+
+3. Data Augmentaions
+
+4. UNet
+
+5. FPN
+
+6. UNet ResNeXt50
+
+7. Train Models
+
+8. Prediction on test data
+
+9. Visualization of the prediction on test data
+
+Based on BONHART's Kaggle notebook
+
+
+
+##About Dataset:
 
 
 LGG Segmentation Dataset
